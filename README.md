@@ -4,7 +4,15 @@ Undergraduate Student in National University of Singapore
 
 I am an aspiring programmer, interested to automate tasks to improve our quality of life.
 
+### Education
 
+####National University of Singapore
+Bachelor of Computing (Hons)
+
+Computer Sciences Courses
+
+####Hwa Chong Institution
+IP Programme
 
 
 
