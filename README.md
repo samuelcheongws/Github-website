@@ -7,6 +7,8 @@
   <img src="jishnu.png" width="25%" />
 </p>
 
+<br>
+
 <p float="left">
   <img src="bowing.gif" width="25%" />
   <img src="bowing.gif" width="25%" /> 
