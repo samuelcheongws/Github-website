@@ -7,6 +7,11 @@
   <img src="jishnu.jpg" width="24%" />
 </p>
 
+img {
+  border-radius: 50%;
+}
+
+
 <br>
 
 <p float="left">
