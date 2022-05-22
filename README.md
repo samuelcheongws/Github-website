@@ -1,5 +1,11 @@
 # Samuel Cheong W.S.
 
+<p float="left">
+  <img src="glendon.png" width="25%" />
+  <img src="christabelle.png" width="25%" /> 
+  <img src="christabelle.png" width="25%" />
+</p>
+
 <div class="row">
   <div class="column">
     <img src="glendon.png" alt="glendon" style="width:25%">
