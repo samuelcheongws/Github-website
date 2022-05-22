@@ -2,13 +2,16 @@
 
 <div class="row">
   <div class="column">
-    <img src="choon.png" alt="choon" style="width:100%">
+    <img src="glendon.png" alt="glendon" style="width:25%">
   </div>
   <div class="column">
-    <img src="choon.png" alt="choon" style="width:100%">
+    <img src="christabelle.png" alt="christabelle" style="width:25%">
   </div>
   <div class="column">
-    <img src="choon.png" alt="choon" style="width:100%">
+    <img src="choon.png" alt="choon" style="width:25%">
+  </div>  
+  <div class="column">
+    <img src="jishnu.png" alt="jishnu" style="width:25%">
   </div>
 </div>
 
