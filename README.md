@@ -7,16 +7,13 @@
   <img src="jishnu.jpg" width="24%" />
 </p>
 
-img {
-  border-radius: 50%;
-}
-
-
 <br>
 <div>
 <p float="left">
-  <img src="bowing.gif" width="50%" padding = "10%" />
-  <img src="bowing-flipped.gif" width="50%" padding = "10%" /> 
+  <img src="bowing.gif" width="25%" />
+  <img src="bowing.gif" width="25%" />
+  <img src="bowing-flipped.gif" width="25%" /> 
+  <img src="bowing-flipped.gif" width="25%" /> 
 </p>
 </div>
 
