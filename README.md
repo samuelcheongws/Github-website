@@ -1,5 +1,7 @@
 # Samuel Cheong W.S.
 
+Well I don't really have a personal website, but I made a shrine for yall...
+
 <p float="left">
   <img src="glendon.jpg" width="24%" />
   <img src="christabelle.jpg" width="24%" /> 
