@@ -1,6 +1,16 @@
+# Samuel Cheong W.S.
 
-
-
+<div class="row">
+  <div class="column">
+    <img src="choon.png" alt="choon" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="choon.png" alt="choon" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="choon.png" alt="choon" style="width:100%">
+  </div>
+</div>
 
 
 
