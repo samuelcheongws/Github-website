@@ -3,28 +3,16 @@
 <p float="left">
   <img src="glendon.png" width="25%" />
   <img src="christabelle.png" width="25%" /> 
-  <img src="christabelle.png" width="25%" />
+  <img src="choon.png" width="25%" />
+  <img src="jishnu.png" width="25%" />
 </p>
 
-<div class="row">
-  <div class="column">
-    <img src="glendon.png" alt="glendon" style="width:25%">
-  </div>
-  <div class="column">
-    <img src="christabelle.png" alt="christabelle" style="width:25%">
-  </div>
-  <div class="column">
-    <img src="choon.png" alt="choon" style="width:25%">
-  </div>  
-  <div class="column">
-    <img src="jishnu.png" alt="jishnu" style="width:25%">
-  </div>
-</div>
-
-
-
-
-
+<p float="left">
+  <img src="bowing.gif" width="25%" />
+  <img src="bowing.gif" width="25%" /> 
+  <img src="bowing.gif" width="25%" />
+  <img src="bowing.gif" width="25%" />
+</p>
 
 
 <!---
