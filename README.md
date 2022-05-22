@@ -12,10 +12,10 @@ Well I don't really have a personal website, but I made a shrine for yall...
 <br>
 <div>
 <p float="left">
-  <img src="bowing.gif" width="25%" />
-  <img src="bowing.gif" width="25%" />
-  <img src="bowing-flipped.gif" width="25%" /> 
-  <img src="bowing-flipped.gif" width="25%" /> 
+  <img src="bowing.gif" width="24%" />
+  <img src="bowing.gif" width="24%" />
+  <img src="bowing-flipped.gif" width="24%" /> 
+  <img src="bowing-flipped.gif" width="24%" /> 
 </p>
 </div>
 
