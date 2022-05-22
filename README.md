@@ -10,10 +10,8 @@
 <br>
 
 <p float="left">
-  <img src="bowing.gif" width="25%" />
-  <img src="bowing.gif" width="25%" /> 
-  <img src="bowing.gif" width="25%" />
-  <img src="bowing.gif" width="25%" />
+  <img src="bowing.gif" width="50%" />
+  <img src="bowing.gif" width="50%" /> 
 </p>
 
 
