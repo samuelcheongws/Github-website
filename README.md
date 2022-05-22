@@ -1,10 +1,10 @@
 # Samuel Cheong W.S.
 
 <p float="left">
-  <img src="glendon.jpg" width="25%" />
-  <img src="christabelle.jpg" width="25%" /> 
-  <img src="choon.jpg" width="25%" />
-  <img src="jishnu.jpg" width="25%" />
+  <img src="glendon.jpg" width="24%" />
+  <img src="christabelle.jpg" width="24%" /> 
+  <img src="choon.jpg" width="24%" />
+  <img src="jishnu.jpg" width="24%" />
 </p>
 
 <br>
