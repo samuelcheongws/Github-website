@@ -1,0 +1,28 @@
+name: Test Continue-on-Error
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  success-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a successful command
+        run: echo "This job will succeed"
+
+  continue-on-error-job:
+    runs-on: ubuntu-latest
+    continue-on-error: true  # This allows the job to fail without stopping the workflow
+    steps:
+      - name: Run a failing command
+        run: exit 1  # This command will fail
+      - name: This will still run despite failure
+        run: echo "Job failed but it's okay due to continue-on-error"
+
+  fail-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run another failing command
+        run: exit 1  # This will cause the job to fail and stop the workflow
