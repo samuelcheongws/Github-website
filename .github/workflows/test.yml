@@ -18,8 +18,10 @@ jobs:
     steps:
       - name: Run a failing command
         run: exit 1  # This command will fail
+        continue-on-error: true  # Continue even if this step fails
       - name: This will still run despite failure
         run: echo "Job failed but it's okay due to continue-on-error"
+
 
   fail-job:
     runs-on: ubuntu-latest
